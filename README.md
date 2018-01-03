@@ -8,3 +8,4 @@ Below URL links to my projects:
 1. Minimum spanning tree using Prim's algorithm, click to add new nodes - https://karolef.github.io/p5_js/MinimumSpanningTree/index.html
 2. Mapping recent earthquake data API - https://karolef.github.io/p5_js/MappingEarthquakeAPI/empty-example/
 3. Drawing trails of objects created via mouse click- https://karolef.github.io/p5_js/DrawingObjectTrails/empty-example/index.html
+4. Mitosis simulation - https://karolef.github.io/p5_js/MitosisSimulation/empty-example/index.html
