@@ -11,3 +11,7 @@ Below URL links to some of my projects:
 4. Mitosis simulation - https://karolef.github.io/p5_js/MitosisSimulation/empty-example/index.html
 5. Greyscale pixelated video feed from your devices' camera [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/GreyscalePixelatedVideoFeed/empty-example/index.html
 6. Brightness mirror based on the video feed from you device [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/BrightnessMirror/empty-example/index.html
+7. Checkbox mirror based on the video feed from your device [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/CheckboxMirror/empty-example/index.html
+8. Painting with pixels [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/PaintingWithPixels/empty-example/index.html
+9. Slit scan video [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/SlitScanVideo/empty-example/index.html
+10. Applying blur to a video feed using seriously.js [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/BlurWithSeriouslyJs/empty-example/index.html
