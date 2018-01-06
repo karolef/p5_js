@@ -15,3 +15,4 @@ Below URL links to some of my projects:
 8. Painting with pixels [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/PaintingWithPixels/empty-example/index.html
 9. Slit scan video [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/SlitScanVideo/empty-example/index.html
 10. Applying blur to a video feed using seriously.js [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED] - https://karolef.github.io/p5_js/BlurWithSeriouslyJs/empty-example/index.html
+11. [WIP] Maze generator with backtracking - https://karolef.github.io/p5_js/MazeGeneratorRecursiveBacktracker/empty-example/
