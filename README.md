@@ -18,3 +18,5 @@ Below URL links to some of my projects:
 11. [WIP] Maze generator with backtracking - https://karolef.github.io/p5_js/MazeGeneratorRecursiveBacktracker/empty-example/
 12. Diffusion reaction over time, the chemicals are fed in 5 places - https://karolef.github.io/p5_js/ReactionDiffusion/empty-example/
 13. Sockets - code required to share the canvas among the clients via the server with sockets - requirements are node.js, express.js and socket.io not uploaded in that folder
+14. Visualization of 1D Perlin Noise - https://karolef.github.io/p5_js/VisualizationOf1DPerlinNoise/empty-example/
+15. Visualization of 2D Perlin Noise - https://karolef.github.io/p5_js/VisualizationOf2DPerlinNoise/empty-example/
