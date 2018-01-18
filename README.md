@@ -24,3 +24,4 @@ Below URL links to some of my projects:
 17. A mass of goop visualized with the use of Perlin noise - https://karolef.github.io/p5_js/AMassOfGoop/empty-example/
 18. Checking object intersecion of every bubble in the array - https://karolef.github.io/p5_js/ObjectIntersection/empty-example/
 19. [WIP] Asteroids - https://karolef.github.io/p5_js/Asteroids/empty-example/
+20. Fractal tree with the use of recursive function - https://karolef.github.io/p5_js/RecursiveFractalTree/empty-example/
