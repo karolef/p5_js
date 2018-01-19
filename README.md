@@ -25,3 +25,4 @@ Below URL links to some of my projects:
 18. Checking object intersecion of every bubble in the array - https://karolef.github.io/p5_js/ObjectIntersection/empty-example/
 19. [WIP] Asteroids - https://karolef.github.io/p5_js/Asteroids/empty-example/
 20. Fractal tree with the use of recursive function - https://karolef.github.io/p5_js/RecursiveFractalTree/empty-example/
+21. Fractal tree (object oriented) - https://karolef.github.io/p5_js/ObjectOrientedFractalTree/empty-example/
