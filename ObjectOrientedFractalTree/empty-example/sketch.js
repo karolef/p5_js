@@ -35,7 +35,7 @@ function draw() {
   background(50);
   for(i=0; i<tree.length; i++){
     tree[i].show();
-    //tree[i].jitter();
+    tree[i].jitter();
   }
 
   for(i=0; i<leaves.length; i++){
