@@ -26,4 +26,5 @@ Below URL links to some of my projects:
 19. [WIP] Asteroids - https://karolef.github.io/p5_js/Asteroids/empty-example/
 20. Fractal tree with the use of recursive function - https://karolef.github.io/p5_js/RecursiveFractalTree/empty-example/
 21. Fractal tree (object oriented) - https://karolef.github.io/p5_js/ObjectOrientedFractalTree/empty-example/
-22. Fractal tree made using Lindenmayer system (L-System) - https://karolef.github.io/p5_js/LSystemFractalTree/empty-example/
+22. Fractal tree generated using Lindenmayer system (L-System) - https://karolef.github.io/p5_js/LSystemFractalTree/empty-example/
+23. Fractal tree generated using space colonization algorithm - https://karolef.github.io/p5_js/SpaceColonizationFractalTree/empty-example/
