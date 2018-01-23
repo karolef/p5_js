@@ -29,3 +29,4 @@ Below URL links to some of my projects:
 22. Fractal tree generated using Lindenmayer system (L-System) - https://karolef.github.io/p5_js/LSystemFractalTree/empty-example/
 23. Fractal tree generated using space colonization algorithm - https://karolef.github.io/p5_js/SpaceColonizationFractalTree/empty-example/
 24. Mandelbrot set - https://karolef.github.io/p5_js/MandelbrotSet/empty-example/
+25. Julia set - https://karolef.github.io/p5_js/JuliaSet/empty-example/
