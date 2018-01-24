@@ -30,3 +30,4 @@ Below URL links to some of my projects:
 23. Fractal tree generated using space colonization algorithm - https://karolef.github.io/p5_js/SpaceColonizationFractalTree/empty-example/
 24. Mandelbrot set - https://karolef.github.io/p5_js/MandelbrotSet/empty-example/
 25. Julia set - https://karolef.github.io/p5_js/JuliaSet/empty-example/
+26. Superellipse - https://karolef.github.io/p5_js/Superellipse/empty-example/
