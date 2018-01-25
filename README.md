@@ -31,3 +31,4 @@ Below URL links to some of my projects:
 24. Mandelbrot set - https://karolef.github.io/p5_js/MandelbrotSet/empty-example/
 25. Julia set - https://karolef.github.io/p5_js/JuliaSet/empty-example/
 26. Superellipse - https://karolef.github.io/p5_js/Superellipse/empty-example/
+26. 2D supershape visualization - https://karolef.github.io/p5_js/2DSupershape/empty-example/
