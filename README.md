@@ -34,3 +34,4 @@ Below URL links to some of my projects:
 26. 2D supershape visualization - https://karolef.github.io/p5_js/2DSupershape/empty-example/
 27. Fireworks generator - https://karolef.github.io/p5_js/Fireworks/empty-example/index.html
 28. [Smart rockets - genetic algorithm](https://karolef.github.io/p5_js/SmartRockets/empty-example/index.html)
+29. [Phyllotaxis](https://karolef.github.io/p5_js/Phyllotaxis/empty-example/)
