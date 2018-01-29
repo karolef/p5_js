@@ -1,0 +1,52 @@
+A snowflake is a single ice crystal that has achieved a sufficient size, and may have amalgamated with others, then falls through the Earth's atmosphere as snow. Each flake nucleates around a dust particle in supersaturated air masses by attracting supercooled cloud water droplets, which freeze and accrete in crystal form. Complex shapes emerge as the flake moves through differing temperature and humidity zones in the atmosphere, such that individual snowflakes differ in detail from one another, but may be categorized in eight broad classifications and at least 80 individual variants. The main constituent shapes for ice crystals, from which combinations may occur, are needle, column, plate and rime. Snow appears white in color despite being made of clear ice. This is due to diffuse reflection of the whole spectrum of light by the small crystal facets of the snowflakes. 4
+
+Once snowflakes land and accumulate, they undergo metamorphosis with changes in temperature and coalesce into a snowpack. The characteristics of the snowpack reflect the changed nature of the constituent snow crystals.
+
+Formation
+
+Snowflakes nucleate around mineral or organic particles in moisture-saturated, subfreezing air masses. They grow by net accretion to the incipient crystals in hexagonal formations. The cohesive forces are primarily electrostatic.
+
+Nucleus
+In warmer clouds an aerosol particle or "ice nucleus" must be present in (or in contact with) the droplet to act as a nucleus. The particles that make ice nuclei are very rare compared to nuclei upon which liquid cloud droplets form; however, it is not understood what makes them efficient. Clays, desert dust and biological particles may be effective, 6  although to what extent is unclear. Artificial nuclei include particles of silver iodide and dry ice, and these are used to stimulate precipitation in cloud seeding. 7  Experiments show that "homogeneous" nucleation of cloud droplets only occurs at temperatures lower than -35 C (-31 F). 8
+
+Growth
+Once a droplet has frozen, it grows in the supersaturated environment, which is one where air is saturated with respect to ice when the temperature is below the freezing point. The droplet then grows by deposition of water molecules in the air (vapor) onto the ice crystal surface where they are collected. Because water droplets are so much more numerous than the ice crystals due to their sheer abundance, the crystals are able to grow to hundreds of micrometers or millimeters in size at the expense of the water droplets. This process is known as the Wegener Bergeron Findeisen process. The corresponding depletion of water vapor causes the droplets to evaporate, meaning that the ice crystals grow at the droplets' expense. These large crystals are an efficient source of precipitation, since they fall through the atmosphere due to their mass, and may collide and stick together in clusters, or aggregates. These aggregates are usually the type of ice particle that falls to the ground. 9  Guinness World Records lists the world's largest (aggregate) snowflakes as those of January 1887 at Fort Keogh, Montana; allegedly one measured 15 inches (38 cm) wide. Although this report by a farmer is doubtful, aggregates of three or four inches width have been observed. Single crystals the size of a dime (17.91 mm in diameter) have been observed. 3  Snowflakes encapsulated in rime form balls known as graupel.
+
+The exact details of the mechanism underlying the tendency of ice particles to stick together and form aggregates remain unresolved. Proposed mechanisms include mechanical interlocking, sintering, electrostatic attraction as well as the existence of a "sticky" liquid-like layer on the crystal surface.
+
+Appearance
+Color
+Although ice by itself is clear, snow usually appears white in color due to diffuse reflection of the whole spectrum of light by the scattering of light by the small crystal facets of the snowflakes of which it is comprised. 4
+
+Shape
+The shape of the snowflake is determined broadly by the temperature and humidity at which it is formed. 9  Rarely, at a temperature of around -2 C (28 F), snowflakes can form in threefold symmetry   triangular snowflakes. 10  The most common snow particles are visibly irregular, although near-perfect snowflakes may be more common in pictures because they are more visually appealing. It is unlikely that any two snowflakes are alike due to the estimated 1019 (10 quintillion) water molecules which make up a typical snowflake, 11  which grow at different rates and in different patterns depending on the changing temperature and humidity within the atmosphere that the snowflake falls through on its way to the ground. 12
+
+Although snowflakes are never completely symmetrical, a non-aggregated snowflake often grows so as to exhibit an approximation of six-fold radial symmetry. The symmetry gets started 13  due to the hexagonal crystalline structure of ice. At that stage, the snowflake has the shape of a minute hexagon. The six "arms" of the snowflake, or dendrites, then grow independently from each of the corners of the hexagon, while either side of each arm grows independently. The micro-environment in which the snowflake grows changes dynamically as the snowflake falls through the cloud, and tiny changes in temperature and humidity affect the way in which water molecules attach to the snowflake. Since the micro-environment (and its changes) are very nearly identical around the snowflake, each arm tends to grow in nearly the same way. However, being in the same micro-environment does not guarantee that each arm grow the same; indeed, for some crystal forms it does not because the underlying crystal growth mechanism also affects how fast each surface region of a crystal grows. 14  Empirical studies suggest less than 0.1% of snowflakes exhibit the ideal six-fold symmetric shape. 15  Very occasionally twelve branched snowflakes are observed; they maintain the six-fold symmetry. 16
+
+Classification
+
+Magono and Lee devised a classification of freshly formed snow crystals that includes 80 distinct shapes. They are listed in the following main categories (with symbol): 25
+
+Needle crystal (N)   Subdivided into: Simple and combination of needles
+Columnar crystal (C)   Subdivided into: Simple and combination of columns
+Plate crystal (P)   Subdivided into: Regular crystal in one plane, plane crystal with extensions, crystal with irregular number of branches, crystal with 12 branches, malformed crystal, radiating assemblage of plane branches
+Combination of columnar and plate crystals (CP)   Subdivided into: Column with plane crystal at both ends, bullet with plane crystals, plane crystal with spatial extensions at ends
+Columnar crystal with extended side planes (S)   Subdivided into: Side planes, scalelike side planes, combination of side planes, bullets and columns
+Rimed crystal (R)   Subdivided into: Rimed crystal, densely rimed crystal, graupellike crystal, graupel
+Irregular snow crystal (I)   Subdivided into: Ice particle, rimed particle, broken piece from a crystal, miscellaneous
+Germ of snow crystal (G)   Subdivided into: Minute column, germ of skeleton form, minute hexagonal plate, minute stellar crystal, minute assemblage of plates, irregular germ
+They documented each with micrographs.
+
+The International Classification for Seasonal Snow on the Ground describes snow crystal classification, once it is deposited on the ground, that include grain shape and grain size. The system also characterizes the snowpack, as the individual crystals metamorphize and coalesce. 26
+
+Use as a symbol
+
+The snowflake is often a traditional seasonal image or motif used around the Christmas season, especially in Europe and North America. As a Christian celebration, Christmas celebrates the incarnation of Jesus, who according to Christian belief atones for the sins of humanity, making them appear "white as snow" before God (cf. Isaiah 1:18); 27  as such, in the religious Christmas tradition, snowflakes symbolize purity. 28  27  Snowflakes are also traditionally associated with the "White Christmas" weather that often occurs during Christmastide. 27  During this period, it is quite popular to make paper snowflakes by folding a piece of paper several times, cutting out a pattern with scissors and then unfolding it. 29  30
+
+Snowflakes are also often used as symbols representing winter or cold conditions. For example, snow tires which enhance traction during harsh winter driving conditions are labelled with a snowflake on the mountain symbol. 31  A stylized snowflake has been part of the emblem of the 1968 Winter Olympics, 1972 Winter Olympics, 1988 Winter Olympics, 1998 Winter Olympics and 2002 Winter Olympics. 32  33
+
+Snowflakes are also seen as a symbol of uniqueness as no two are perfectly identical. 34
+
+In heraldry, the snowflake is a stylized charge, often used to represent winter or winter sports.
+
+Three different snowflake symbols are encoded in Unicode: "snowflake" at U+2744  ; "tight trifoliate snowflake" at U+2745  ; and "heavy chevron snowflake" at U+2746  .
