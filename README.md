@@ -37,3 +37,4 @@ Below URL links to some of my projects:
 29. [Phyllotaxis](https://karolef.github.io/p5_js/Phyllotaxis/empty-example/)
 30. [Diastic algorithm](https://karolef.github.io/p5_js/DiasticAlgorithm/empty-example/index.html)
 31. [Interacting with text on a single word basis](https://karolef.github.io/p5_js/InteractionWithText/empty-example/index.html)
+32. [Word counter](https://karolef.github.io/p5_js/WordCounter/empty-example/)
