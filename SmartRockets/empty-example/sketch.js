@@ -29,7 +29,7 @@ function draw() {
     counter = 0;
   }
   fill(255);
-  rect(100, 150, 200, 10);
+  rect(width/2, height/2, 200, 10);
   noStroke();
   fill(255);
   ellipse(target.x, target.y, 15, 15);
