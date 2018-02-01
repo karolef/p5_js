@@ -38,4 +38,4 @@ Below URL links to some of my projects:
 30. [Diastic algorithm](https://karolef.github.io/p5_js/DiasticAlgorithm/empty-example/index.html)
 31. [Interacting with text on a single word basis](https://karolef.github.io/p5_js/InteractionWithText/empty-example/index.html)
 32. [Word counter](https://karolef.github.io/p5_js/WordCounter/empty-example/)
-33. [Markov chain applied to a piece of text](https://karolef.github.io/p5_js/MarkovChain/empty-example/index.html)
+33. [Markov chain applied to a piece of text](https://karolef.github.io/p5_js/MarkovChain/empty-example/)
