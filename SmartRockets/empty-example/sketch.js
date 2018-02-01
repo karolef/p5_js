@@ -6,7 +6,7 @@ let target;
 let maxForce = 0.2;
 
 let rx = 100;
-let ry = 150;
+let ry = 200;
 let rw = 200;
 let rh = 10;
 
@@ -29,7 +29,7 @@ function draw() {
     counter = 0;
   }
   fill(255);
-  rect(100, height/2, 200, 10);
+  rect(rx, ry, rw, rh);
   noStroke();
   fill(255);
   ellipse(target.x, target.y, 15, 15);
