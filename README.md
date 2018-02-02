@@ -39,3 +39,6 @@ Below URL links to some of my projects:
 31. [Interacting with text on a single word basis](https://karolef.github.io/p5_js/InteractionWithText/empty-example/index.html)
 32. [Word counter](https://karolef.github.io/p5_js/WordCounter/empty-example/)
 33. [Markov chain applied to a piece of text](https://karolef.github.io/p5_js/MarkovChain/empty-example/)
+34. [Traveling salesman problem with brute force](https://karolef.github.io/p5_js/BruteForcingTravelingSalesmanProblem/empty-example/index.html)
+35. [Traveling salesman problem with the use of lexicographic ordering](https://karolef.github.io/p5_js/LexicographicOrderingTravelingSalesmanProblem/empty-example/index.html)
+36. [Traveling salesman problem with the use of genetic algorithm](https://karolef.github.io/p5_js/GeneticAlgorithmTravelingSalesmanProblem/empty-example/index.html)
