@@ -1,7 +1,6 @@
 Hello there!
 
 The purpose of this repository is for me to upload my p5.js code and showcase it.
-
 If you have any questions, please let me know via email: fatyga.karol@gmail.com
 
 Below URL links to some of my projects:
@@ -15,24 +14,24 @@ Below URL links to some of my projects:
 8. [Painting with pixels [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED]](https://karolef.github.io/p5_js/PaintingWithPixels/empty-example/index.html)
 9. [Slit scan video [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED]](https://karolef.github.io/p5_js/SlitScanVideo/empty-example/index.html)
 10. [Applying blur to a video feed using seriously.js [REQUIRES YOU TO ALLOW THE CAM USAGE WHEN PROMPTED]](https://karolef.github.io/p5_js/BlurWithSeriouslyJs/empty-example/index.html)
-11. [WIP] Maze generator with backtracking - https://karolef.github.io/p5_js/MazeGeneratorRecursiveBacktracker/empty-example/
-12. Diffusion reaction over time, the chemicals are fed in 5 places - https://karolef.github.io/p5_js/ReactionDiffusion/empty-example/
+11. [[WIP] Maze generator with backtracking](https://karolef.github.io/p5_js/MazeGeneratorRecursiveBacktracker/empty-example/)
+12. [Diffusion reaction over time, the chemicals are fed in 5 places](https://karolef.github.io/p5_js/ReactionDiffusion/empty-example/)
 13. Sockets - code required to share the canvas among the clients via the server with sockets - requirements are node.js, express.js and socket.io not uploaded in that folder
-14. Visualization of 1D Perlin noise - https://karolef.github.io/p5_js/VisualizationOf1DPerlinNoise/empty-example/
-15. Visualization of 2D Perlin noise - https://karolef.github.io/p5_js/VisualizationOf2DPerlinNoise/empty-example/
-16. Visualization of 3D Perlin noise, Perlin noise flow field - https://karolef.github.io/p5_js/PerlinNoiseFlowField/empty-example/
-17. A mass of goop visualized with the use of Perlin noise - https://karolef.github.io/p5_js/AMassOfGoop/empty-example/
-18. Checking object intersecion of every bubble in the array - https://karolef.github.io/p5_js/ObjectIntersection/empty-example/
-19. [WIP] Asteroids - https://karolef.github.io/p5_js/Asteroids/empty-example/
-20. Fractal tree with the use of recursive function - https://karolef.github.io/p5_js/RecursiveFractalTree/empty-example/
-21. Fractal tree (object oriented) - https://karolef.github.io/p5_js/ObjectOrientedFractalTree/empty-example/
-22. Fractal tree generated using Lindenmayer system (L-System) - https://karolef.github.io/p5_js/LSystemFractalTree/empty-example/
-23. Fractal tree generated using space colonization algorithm - https://karolef.github.io/p5_js/SpaceColonizationFractalTree/empty-example/
-24. Mandelbrot set - https://karolef.github.io/p5_js/MandelbrotSet/empty-example/
-25. Julia set - https://karolef.github.io/p5_js/JuliaSet/empty-example/
-26. Superellipse - https://karolef.github.io/p5_js/Superellipse/empty-example/
-26. 2D supershape visualization - https://karolef.github.io/p5_js/2DSupershape/empty-example/
-27. Fireworks generator - https://karolef.github.io/p5_js/Fireworks/empty-example/index.html
+14. [Visualization of 1D Perlin noise](https://karolef.github.io/p5_js/VisualizationOf1DPerlinNoise/empty-example/)
+15. [Visualization of 2D Perlin noise](https://karolef.github.io/p5_js/VisualizationOf2DPerlinNoise/empty-example/)
+16. [Visualization of 3D Perlin noise, Perlin noise flow field](https://karolef.github.io/p5_js/PerlinNoiseFlowField/empty-example/)
+17. [A mass of goop visualized with the use of Perlin noise](https://karolef.github.io/p5_js/AMassOfGoop/empty-example/)
+18. [Checking object intersecion of every bubble in the array](https://karolef.github.io/p5_js/ObjectIntersection/empty-example/)
+19. [[WIP] Asteroids](https://karolef.github.io/p5_js/Asteroids/empty-example/)
+20. [Fractal tree with the use of recursive function](https://karolef.github.io/p5_js/RecursiveFractalTree/empty-example/)
+21. [Fractal tree object oriented](https://karolef.github.io/p5_js/ObjectOrientedFractalTree/empty-example/)
+22. [Fractal tree generated using Lindenmayer system (L-System)](https://karolef.github.io/p5_js/LSystemFractalTree/empty-example/)
+23. [Fractal tree generated using space colonization algorithm](https://karolef.github.io/p5_js/SpaceColonizationFractalTree/empty-example/)
+24. [Mandelbrot set](https://karolef.github.io/p5_js/MandelbrotSet/empty-example/)
+25. [Julia set](https://karolef.github.io/p5_js/JuliaSet/empty-example/)
+26. [Superellipse](https://karolef.github.io/p5_js/Superellipse/empty-example/)
+26. [2D supershape visualization](https://karolef.github.io/p5_js/2DSupershape/empty-example/)
+27. [Fireworks generator](https://karolef.github.io/p5_js/Fireworks/empty-example/index.html)
 28. [Smart rockets - genetic algorithm](https://karolef.github.io/p5_js/SmartRockets/empty-example/index.html)
 29. [Phyllotaxis](https://karolef.github.io/p5_js/Phyllotaxis/empty-example/)
 30. [Diastic algorithm](https://karolef.github.io/p5_js/DiasticAlgorithm/empty-example/index.html)
@@ -43,3 +42,4 @@ Below URL links to some of my projects:
 35. [Traveling salesman problem with the use of lexicographic ordering](https://karolef.github.io/p5_js/LexicographicOrderingTravelingSalesmanProblem/empty-example/index.html)
 36. [Traveling salesman problem with the use of genetic algorithm](https://karolef.github.io/p5_js/GeneticAlgorithmTravelingSalesmanProblem/empty-example/index.html)
 37. [Term frequency - Inverse document frequency](https://karolef.github.io/p5_js/TFIDF/empty-example/index.html)
+38. [Text sentiment analysis with AFINN-111 - the issue is it only looks at raw words, not context](https://karolef.github.io/p5_js/SentimentAnalysisAFINN-111/empty-example/index.html)
