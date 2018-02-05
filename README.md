@@ -43,3 +43,4 @@ Below URL links to some of my projects:
 36. [Traveling salesman problem with the use of genetic algorithm](https://karolef.github.io/p5_js/GeneticAlgorithmTravelingSalesmanProblem/empty-example/index.html)
 37. [Term frequency - Inverse document frequency](https://karolef.github.io/p5_js/TFIDF/empty-example/index.html)
 38. [Text sentiment analysis with AFINN-111 - the issue is it only looks at raw words, not context](https://karolef.github.io/p5_js/SentimentAnalysisAFINN-111/empty-example/index.html)
+39. [Simple random walker](https://karolef.github.io/p5_js/RandomWalker/empty-example/)
