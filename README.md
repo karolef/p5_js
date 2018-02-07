@@ -45,3 +45,4 @@ Below URL links to some of my projects:
 38. [Text sentiment analysis with AFINN-111 - the issue is it only looks at raw words, not context](https://karolef.github.io/p5_js/SentimentAnalysisAFINN-111/empty-example/index.html)
 39. [Simple random walker](https://karolef.github.io/p5_js/RandomWalker/empty-example/)
 40. [Vector based random walker with Levy flight](https://karolef.github.io/p5_js/VectorRandomWalkerWithLevyFlight/empty-example/index.html)
+41. [Rose patterns](https://karolef.github.io/p5_js/RosePatterns/empty-example/index.html)
