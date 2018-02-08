@@ -46,3 +46,4 @@ Below URL links to some of my projects:
 39. [Simple random walker](https://karolef.github.io/p5_js/RandomWalker/empty-example/)
 40. [Vector based random walker with Levy flight](https://karolef.github.io/p5_js/VectorRandomWalkerWithLevyFlight/empty-example/index.html)
 41. [Rose patterns](https://karolef.github.io/p5_js/RosePatterns/empty-example/index.html)
+42. [Attraction and repulsion - click to add the source](https://karolef.github.io/p5_js/AttractionRepulsion/empty-example/)
