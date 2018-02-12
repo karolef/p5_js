@@ -49,3 +49,4 @@ Below URL links to some of my projects:
 42. [Attraction and repulsion - click to add the source](https://karolef.github.io/p5_js/AttractionRepulsion/empty-example/)
 43. [Steering behavior](https://karolef.github.io/p5_js/SteeringBehavior/index.html)
 44. [Breadth first search - random list of countries with animal names (does not make sense but the algorithm does)](https://karolef.github.io/p5_js/BreadthFirstSearch/bfs/index.html)
+45. [Minesweeper](https://karolef.github.io/p5_js/Minesweeper/)
