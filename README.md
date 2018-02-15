@@ -52,3 +52,4 @@ Below URL links to some of my projects:
 45. [Minesweeper](https://karolef.github.io/p5_js/Minesweeper/)
 46. [Conway's Game of Life](https://karolef.github.io/p5_js/ConwaysGameOfLife/)
 47. [10PRINT - pick an image](https://karolef.github.io/p5_js/10PRINT/index.html)
+48. [Simple clock design](https://karolef.github.io/p5_js/Clock/index.html)
