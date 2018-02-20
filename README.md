@@ -54,4 +54,5 @@ Below URL links to some of my projects:
 47. [10PRINT - pick an image](https://karolef.github.io/p5_js/10PRINT/index.html)
 48. [Simple clock design](https://karolef.github.io/p5_js/Clock/index.html)
 49. [Matrix rain](https://karolef.github.io/p5_js/MatrixRain/index.html)
-50. [Simple spring physics](https://karolef.github.io/p5_js/SpringPhysics/)
+50. [Spring physics](https://karolef.github.io/p5_js/SpringPhysics/)
+51. [Spring menu design](https://karolef.github.io/p5_js/SpringMenuDesign/index.html)
