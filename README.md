@@ -56,3 +56,4 @@ Below URL links to some of my projects:
 49. [Matrix rain](https://karolef.github.io/p5_js/MatrixRain/index.html)
 50. [Spring physics](https://karolef.github.io/p5_js/SpringPhysics/)
 51. [Spring menu design](https://karolef.github.io/p5_js/SpringMenuDesign/index.html)
+52. [[WIP]Steering behavior with evolution - the genetic algorithm will be added later](https://karolef.github.io/p5_js/SteeringBehaviorWithEvolution/index.html)
