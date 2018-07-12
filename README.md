@@ -1,6 +1,7 @@
 Hello there!
 
-The purpose of this repository is for me to upload my p5.js code and showcase it.
+The purpose of this repository is for me to upload my [p5.js](https://p5js.org/reference/) code and showcase it.
+
 If you have any questions, please let me know via email: fatyga.karol@gmail.com
 
 Below URL links to some of my projects:
