@@ -60,4 +60,4 @@ Below URL links to some of my projects:
 53. [Snow](https://karolef.github.io/p5_js/Snow/index.html)
 54. [[WIP]Particle system](https://karolef.github.io/p5_js/ParticleSystem/index.html)
 55. [2048](https://karolef.github.io/p5_js/2048/)
-56. [Ripple effect](https://karolef.github.io/p5_js/Ripple/)
+56. [Ripple effect](https://karolef.github.io/p5_js/Ripples/)
