@@ -68,4 +68,4 @@ Below URL links to some of my projects:
 58. [Quadtree - click on the canvas to add points](https://karolef.github.io/p5_js/Quadtree/Quadtree/index.html)
      - [Quadtree point detection](https://karolef.github.io/p5_js/Quadtree/QuadtreeDetection/)
      - Calculating/optimizing collisions with [quadtree](https://karolef.github.io/p5_js/Quadtree/QuadtreeCollisions/) vs [each object against each object](https://karolef.github.io/p5_js/Quadtree/CollisionsAgainstEverything/)
-59. [Color contrast predictor with neural network](https://karolef.github.io/p5_js/ColorContrastwithNeuralNetwork/)
+59. [Color contrast predictor with neural network](https://karolef.github.io/p5_js/ColorContraswithNeuralNetwork/)
