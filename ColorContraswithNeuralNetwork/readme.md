@@ -1,1 +1,1 @@
-The neural network libraries were created by Daniel Shiffman.
+The neural network libraries matrix.js & nn.js were created by Daniel Shiffman.
