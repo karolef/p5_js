@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/addons/p5.dom.min.js"></script>
+  <script src="sketch.js"></script>
+  <script src="bird.js"></script>
+  <script src="pipe.js"></script>
+  <script src="ga.js"></script>
+  <script src="lib/nn.js"></script>
+  <script src="lib/matrix.js"></script>
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="canvascontainer"></div>
+  <p>
+    speed: <input id="speedSlider" type="range" min="1" max="10" value="1"> <span id="speed">1</span>
+    <br/> population: <span id="popCount">1</span>
+    <br/> high score: <span id="hs">0</span>
+    <br/> all time high score: <span id="ahs">0</span>
+  </p>
+  <p>
+    <button id="best">run best so far</button>
+  </p>
+</body>
+
+</html>
