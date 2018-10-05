@@ -71,3 +71,4 @@ Below URL links to some of my projects:
 59. [Color contrast predictor with neural network](https://karolef.github.io/p5_js/ColorContraswithNeuralNetwork/)
 60. [Neuroevolution with flappy bird](https://karolef.github.io/p5_js/Neuroevolution/)
 61. [Lissajous curves](https://karolef.github.io/p5_js/LissajousCurves/)
+62. [Sorting visualization[(https://karolef.github.io/p5_js/SortingVisualization/)
