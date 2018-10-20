@@ -73,4 +73,4 @@ Below URL links to some of my projects:
 61. [Lissajous curves](https://karolef.github.io/p5_js/LissajousCurves/)
 62. [Sorting visualization](https://karolef.github.io/p5_js/SortingVisualization/)
 63. [Barnsley fern fractal with dots](https://karolef.github.io/p5_js/BarnsleyFern/)
-64. [A* search algorithm in pathfinding & not optimized](https://karolef.github.io/p5_js/AStarPathfindingAlgorithm/)
+64. [A* search algorithm in pathfinding & not optimized - if the beginning or end is walled off just refresh](https://karolef.github.io/p5_js/AStarPathfindingAlgorithm/)
