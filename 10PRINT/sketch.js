@@ -27,7 +27,7 @@ function resize() {
   resizeCanvas(img.width+offset, img.height+offset);
   userInput.position(0, height+5);
   p.position(0, height+15);
-  background(255);
+  background(225);
   slashes.x = 0;
   slashes.y = 0;
   active = true;
